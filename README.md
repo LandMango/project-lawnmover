@@ -4,5 +4,5 @@ pseudocode for both the lawnmower algorithm and the alternate algorithm. We woul
 or limit theorem. Lastly, we implement these two algorithms.
 
 Group Members:
-Alex Ha
+Alex Ha,
 John Park
